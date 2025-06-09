@@ -34,12 +34,12 @@ Power Query -ETL operations (cleaning, transformation)
 
 4. Dashboard Features
 
- 📍 Filters: Filter panel for Outlet Location, Outlet Size, and Outlet Type
- 🥑 Fat Content Analysis: Comparison of Low Fat vs Regular product sales
- 🛒 Item Type Breakdown: Sales per item category (e.g., Fruits, Snacks, Frozen, etc.)
- 🏪 Outlet Establishment Trend: Sales trend over years (2010-2022)
- 📐 Outlet Size Analysis: Sales by Small, Medium, and High outlets
- 📍 Outlet Location Analysis: Sales in Tier 1, Tier 2, and Tier 3 cities
+ -📍 Filters: Filter panel for Outlet Location, Outlet Size, and Outlet Type
+ -🥑 Fat Content Analysis: Comparison of Low Fat vs Regular product sales
+ -🛒 Item Type Breakdown: Sales per item category (e.g., Fruits, Snacks, Frozen, etc.)
+ -🏪 Outlet Establishment Trend: Sales trend over years (2010-2022)
+ -📐 Outlet Size Analysis: Sales by Small, Medium, and High outlets
+ -📍 Outlet Location Analysis: Sales in Tier 1, Tier 2, and Tier 3 cities
  🧾 Outlet Type Summary Table: KPIs for each outlet type (Supermarket, Grocery Store)
 
 
